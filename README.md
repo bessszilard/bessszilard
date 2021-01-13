@@ -7,7 +7,6 @@
 - ❤️ I am passionate about **Bible, Machine Learning/Deep Learning, Computer Vision and Robotics, Software Engineering, Open-Source** 
 - 📜 BSc and MSc Electrical engineer
 - 📫 How to reach me: bessszilard@gmail.com 
-- 🏠 Palic
 
 [![Szilard Bessenyei's github stats](https://github-readme-stats.vercel.app/api?username=bessszilard)](https://github.com/anuraghazra/github-readme-stats)
 
