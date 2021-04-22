@@ -3,7 +3,7 @@
 <p> <a href="https://www.linkedin.com/in/szilard-bessenyei/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/bessenyeiszilrd" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle" /></a>
 
 ### About me :rocket:
-- 🎓  I am a Robotic Engineer @neurobotX
+- 🎓  I am a C++ developer at Alten
 - ❤️ I am passionate about **Bible, Machine Learning/Deep Learning, Computer Vision and Robotics, Software Engineering, Open-Source** 
 - 📜 BSc and MSc Electrical engineer
 - 📫 How to reach me: bessszilard@gmail.com 
